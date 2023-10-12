@@ -1,0 +1,234 @@
+.Z {
+	overflow: hidden;
+}
+
+.A {
+	background-color: rgb(180, 33, 33);
+	width: 1391px;
+	height: 1940px;
+	position: absolute;
+}
+
+.B {
+	background-color: rgb(218, 93, 93);
+	width: 1393px;
+	height: 1947px;
+	position: absolute;
+	left: 0px;
+	top: 9px;
+}
+
+.C {
+	color: rgba(0, 0, 0, 1);
+	width: 185px;
+	height: 29px;
+	position: absolute;
+	left: 871px;
+	top: 1234px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 32px;
+	letter-spacing: 0;
+}
+
+.D {
+	width: 422px;
+	height: 422px;
+	position: absolute;
+	left: 871px;
+	top: 669px;
+	border-top-left-radius: 70px;
+	border-top-right-radius: 70px;
+	border-bottom-left-radius: 70px;
+	border-bottom-right-radius: 70px;
+	background-image: url(images/hefesto_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.E {
+	width: 512px;
+	height: 512px;
+	position: absolute;
+	left: 107px;
+	top: 96px;
+	background-image: url(images/hefesto_1__1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.F {
+	background-color: rgb(172, 51, 51);
+	width: 1391px;
+	height: 58px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.G { 
+	color:rgba(255, 255, 255, 1);
+	width:600px;
+	height:58px;
+	position:absolute;
+	left:391px;
+	top:0px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+	 }
+
+.H {
+	color: rgba(255, 255, 255, 1);
+	width: 501px;
+	height: 496px;
+	position: absolute;
+	left: 806px;
+	top: 141px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 0;
+}
+
+.I { 
+	background-color:rgb(197, 11, 11);
+	width:521px;
+	height:548px;
+	position: absolute;
+	left: 821px;
+	top: 102px;
+	border-top-left-radius:72px;
+	border-top-right-radius:72px;
+	border-bottom-left-radius:72px;
+	border-bottom-right-radius:72px;
+}
+.I2 { 
+	color:rgb(241, 236, 236);
+	width:501px;
+	height:496px;
+	position:absolute;
+	left:831px;
+	top: 160px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+	}
+
+.J {
+	background-color: rgb(197, 11, 11);
+	width: 547px;
+	height: 543px;
+	position: absolute;
+	left: 118px;
+	top: 650px;
+	border-radius: 112px;
+}
+
+.K {
+	color: rgba(255, 255, 255, 1);
+	width: 428px;
+	height: 437px;
+	position: absolute;
+	left: 177px;
+	top: 720px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 0;
+}
+
+.L {
+	width: 373px;
+	height: 404px;
+	position: absolute;
+	left: 246px;
+	top: 1243px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background-image: url(images/hefesto_2__1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.M {
+	background-color: rgb(192, 11, 11);
+	width: 401px;
+	height: 455px;
+	position: absolute;
+	left: 763px;
+	top: 1198px;
+	border-top-left-radius: 72px;
+	border-top-right-radius: 72px;
+	border-bottom-left-radius: 72px;
+	border-bottom-right-radius: 72px;
+}
+
+.N {
+	color: rgb(243, 234, 234);
+	width: 310px;
+	height: 355px;
+	position: absolute;
+	left: 809px;
+	top: 1250px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 0;
+}
+
+.T {
+	color: rgba(0, 0, 0, 1);
+	width: 140px;
+	height: 30px;
+	position: absolute;
+	left: 986px;
+	top: 106px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 32px;
+	letter-spacing: 0;
+}
+
+.U {
+	color: rgba(0, 0, 0, 1);
+	width: 183px;
+	height: 39px;
+	position: absolute;
+	left: 300px;
+	top: 667px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 32px;
+	letter-spacing: 0;
+}
+
+.V {
+	background-color: rgb(189, 35, 35);
+	width: 571px;
+	height: 107px;
+	position: absolute;
+	left: 414px;
+	top: 1752px;
+	border-top-left-radius: 39px;
+	border-top-right-radius: 39px;
+	border-bottom-left-radius: 39px;
+	border-bottom-right-radius: 39px;
+}
+
+.W {
+	color: rgba(0, 0, 0, 1);
+	width: 438px;
+	height: 41px;
+	position: absolute;
+	left: 487px;
+	top: 1785px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 36px;
+	letter-spacing: 0;
+}
